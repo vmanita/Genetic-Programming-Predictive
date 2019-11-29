@@ -1,0 +1,3 @@
+> project_02_regression contains the PyCharm files. It is divided into two foleds:  "gplearn_mlaa" contains the genetic programming files and "Scripts" contains the project framework. Project_00_init.py runs the pipeline.
+
+> Jupyter Files contains the jupyter notebook python files that we made while exploring the best ways to preprocess the data. It contains more ways of dealing with outliers, missing values, data decomposition and data selection than the ones provided in the project_02_regression PyCharm project.
